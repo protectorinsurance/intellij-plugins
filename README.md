@@ -1,0 +1,1 @@
+# Protector plugins for IntelliJ
